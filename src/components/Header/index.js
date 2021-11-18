@@ -23,10 +23,10 @@ const Header = () => (
             <br />
 
             <h2 className="h2header">
-              Dê vida a seu negócio. Exista na internet! 
+              Dê vida a seu negócio e exista na internet! 
               Qual maior site de buscas? Não precisamos nem pensar "Google" é
               claro. Pense, seu site é o cartão de visitas para seu cliente. Dá
-              mais credibilidade uma pequena empresa ou seu trabalho pessoal
+              mais credibilidade a uma empresa ou seu negócio pessoal
               tendo um site com suas descrições mais completas, além da
               proporção de clientes que você possa atingir.
             </h2>
