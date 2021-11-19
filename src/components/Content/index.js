@@ -12,7 +12,7 @@ const Content = () => (
   <>
     <div className="container">
       <br />
-      <h1 className="text-center text-content">
+      <h1 className="text-center text-uppercase title-works">
         Escolha o plano ideal para o seu negócio
       </h1>
       <br />

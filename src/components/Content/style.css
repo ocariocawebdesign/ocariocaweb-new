@@ -19,25 +19,6 @@ html, body {
   color: var(--title-color-03);
 }
 
-.box-produtos {
-  background: #fff;
-  padding: 2rem;
-  box-shadow: 5px 5px 20px 5px #d5d5d5;
-  z-index: 2 !important;
-  position: center;
-  margin-top: 2rem;
-}
-
-.precoTotensStyle {
-  font-weight: bold;
-  color: #c91e24;
-  font-size: 22px;
-  margin-top: 16px;
-  background: rgb(228, 228, 110);
-  border-radius: 4px;
-  padding: 0.8rem;
-  text-transform: uppercase;
-}
 
 span {
   text-decoration: line-through;
@@ -86,6 +67,11 @@ span {
   letter-spacing: -1.5px;
   line-height: 1.1667;
   margin-top: 5rem;
+}
+
+.title-works{
+  color: #693377;
+  font-size: 2em;
 }
 
 #content-box-01 {
