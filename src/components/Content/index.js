@@ -31,7 +31,7 @@ const Content = () => (
               <br />
               {/*Podendo ser parcelado em 3X*/}
               <p className="card-text"></p>
-                <ul>
+              <ul>
                 <li> - Sem mensalidade</li>
                 <br />
                 <li> - Modelo de Site one page </li>
@@ -116,9 +116,7 @@ const Content = () => (
               </p>
               <a href="#" class="btn btn-primary">
                 Quero saber mais...
-                
               </a>
-             
             </div>
           </div>
         </div>
@@ -133,10 +131,7 @@ const Content = () => (
 
       <div className="container">
         <div className="row">
-          <div
-            id=""
-            className="col-xs-12 col-sm-12 col-md-4 col-lg-4"
-          >
+          <div id="" className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <a
               href="https://ocariocawebdesign.github.io/promocoes-delivery/"
               rel="noreferrer"
@@ -146,12 +141,9 @@ const Content = () => (
               <img className="img-thumbnail works" src={PrimoCappo} alt="" />
             </a>
           </div>
-          <div
-            id=""
-            className="col-xs-12 col-sm-12 col-md-4 col-lg-4"
-          >
+          <div id="" className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <a
-              href="https://www.forlifeburiticlube.com.br/"
+              href="https://forcasa.com.br/forlife-cuesta-clube-premium"
               rel="noreferrer"
               target="_blank"
             >
@@ -163,10 +155,7 @@ const Content = () => (
             </a>
           </div>
 
-          <div
-            id=""
-            className="col-xs-12 col-sm-12 col-md-4 col-lg-4"
-          >
+          <div id="" className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <a
               href="https://espirales.netlify.app"
               rel="noreferrer"
