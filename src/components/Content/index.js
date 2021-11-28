@@ -8,6 +8,8 @@ import CoffeCup from "../Content/img/coffe.png"
 import Perfil2 from "../Content/img/perfil2.png"
 import PrimoCappo from "../Content/img/primoCappo.png"
 
+//https://www.npmjs.com/package/react-ig-feed
+
 const Content = () => (
   <>
     <div className="container">
@@ -29,9 +31,7 @@ const Content = () => (
               <br />
               {/*Podendo ser parcelado em 3X*/}
               <p className="card-text"></p>
-              <br />
-              <br />
-              <ul>
+                <ul>
                 <li> - Sem mensalidade</li>
                 <br />
                 <li> - Modelo de Site one page </li>
@@ -65,8 +65,6 @@ const Content = () => (
               <br />
               {/*} Podendo ser parcelado em 3X*/}
               <p className="card-text">
-                <br />
-                <br />
                 <ul>
                   <li> - Sem mensalidade</li>
                   <br />
@@ -99,8 +97,6 @@ const Content = () => (
               <br />
               {/*Podendo ser parcelado em 3X*/}
               <p className="card-text">
-                <br />
-                <br />
                 <ul>
                   <li> - Sem mensalidade</li>
                   <br />
@@ -120,7 +116,9 @@ const Content = () => (
               </p>
               <a href="#" class="btn btn-primary">
                 Quero saber mais...
+                
               </a>
+             
             </div>
           </div>
         </div>
@@ -132,10 +130,11 @@ const Content = () => (
         Alguns trabalhos
       </h1>
       <Efeito />
+
       <div className="container">
         <div className="row">
           <div
-            id="content-box-01"
+            id=""
             className="col-xs-12 col-sm-12 col-md-4 col-lg-4"
           >
             <a
@@ -148,7 +147,7 @@ const Content = () => (
             </a>
           </div>
           <div
-            id="content-box-02"
+            id=""
             className="col-xs-12 col-sm-12 col-md-4 col-lg-4"
           >
             <a
@@ -165,7 +164,7 @@ const Content = () => (
           </div>
 
           <div
-            id="content-box-01"
+            id=""
             className="col-xs-12 col-sm-12 col-md-4 col-lg-4"
           >
             <a
