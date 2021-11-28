@@ -47,7 +47,7 @@ const Header = () => (
             id="content-header-02"
             className="col-xs-12 col-sm-12 col-md-6 col-lg-6"
           >
-            <img src={LogoMobile} className="" alt="" />
+            <img className="img-thumbnail" src={LogoMobile} alt="" />
           </div>
         </div>
       </div>
