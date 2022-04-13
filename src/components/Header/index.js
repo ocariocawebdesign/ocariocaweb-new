@@ -1,7 +1,7 @@
 import React from "react"
 import Logo from "../Header/img/logo-grey.png"
 import LogoMobile from "../Header/img/logo-mobile.png"
-import CoffeCup from "../Content/img/coffe.png"
+//import CoffeCup from "../Content/img/coffe.png"
 
 import "./style.css"
 
@@ -35,7 +35,7 @@ const Header = () => (
                 href="https://api.whatsapp.com/send?phone=5521971025148&text=Ol%C3%A1!%20Quero%20informa%C3%A7%C3%B5es%20sobre%20Desenvolvimento%20de%20sites..."
                 target="_blank"
                 rel="noreferrer"
-                cacak7
+                
               >
                 <button className="btn btn-primary-mod-02 text-button-size coffe-button swing ">
                   Faça uma consulta!
@@ -47,7 +47,7 @@ const Header = () => (
             id="content-header-02"
             className="col-xs-12 col-sm-12 col-md-6 col-lg-6"
           >
-            <img className="img-thumbnail" src={LogoMobile} alt="" />
+            <img className="img-fluid" src={LogoMobile} alt="" />
           </div>
         </div>
       </div>
